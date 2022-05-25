@@ -4,8 +4,10 @@
 ----
 ##New Maintainers wanted##
 Anyone up for the challenge of maintaining this repo?
-Reach 
+Reach out on twitter @vilsbole
 ----
+
+
 
 # ![RealWorld Example App](./static/rwv-logo.png)
 
@@ -83,3 +85,7 @@ These can be changed when the contributors reach a consensus.
 
   Vue.js 3 will likely introduce breaking changes on how Vue.js applications will look like. For example, the Vue.js Function API might be introduced. This would cause a lot of our components to change in the overall structure. The changes would be minimal though. With the `vue-function-api` plugin, these changes could be applied already. The problem is that multiple integrations are not working with the plugin. There are intentions to make this work, but for the time being, we should rather focus on different areas. If you still want to be experimental with it, we are happy to get a Pull Request with some experimental feature implementations.
 </details></p>
+
+## Connect
+
+Join us on [Discord](https://discord.gg/NE2jNmg)
