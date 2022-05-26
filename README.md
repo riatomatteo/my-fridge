@@ -57,6 +57,8 @@ Current arbitrary choices are:
 
 These can be changed when the contributors reach a consensus.
 
+Project is available at this link: https://my-fridge-riato.netlify.app/
+
 ## FAQ
 
 <p><details>
