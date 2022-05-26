@@ -3,8 +3,6 @@
 
 # ![RealWorld Example App](./static/rwv-logo.png)
 
-Project is available at this link: https://my-fridge-riato.netlify.app/
-
 > Vue.js codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
 Project demo is available at https://vue-vuex-realworld.netlify.app/
@@ -48,6 +46,8 @@ yarn run build
 # run unit tests
 yarn test
 ```
+
+### Project is available at this link: https://my-fridge-riato.netlify.app/
 
 ## To know
 
